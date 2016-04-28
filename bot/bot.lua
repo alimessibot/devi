@@ -235,7 +235,6 @@ function create_config( )
     "arabic",
     "auto-leave",
     "azan",
-    "baba",
     "bot",
     "commands",
     "export_gban",
@@ -252,6 +251,7 @@ function create_config( )
     "spam",
     "version",
     "translate",
+    "baba"
     },
   enabled_lang = {
     "arabic_lang",
