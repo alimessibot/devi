@@ -7,12 +7,12 @@ return {
   description = "My Dad", 
   usage = "admin name: mehran,omid",
   patterns = {
-    "^امید",
-    "^مهران",
-"^[Oo][Mm][Ii][Dd]",
-"^[Mm][Ee][Hh][Rr][Aa][Nn]",
-"^@Xx_admin_eblis_xX",
-"^@heset_ni_zendgi"
+    "^علی",
+    "^رضا",
+"^[Aa][Ll][Ii]",
+"^[Rr][Ee][Zz][Aa]",
+"^@kos_khahare_zendegi",
+"^@Xx_fire_boy_eblis_xX "
 
   },
   run = run
