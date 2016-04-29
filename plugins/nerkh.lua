@@ -1,7 +1,7 @@
  do
 
 function run(msg, matches)
-  return "slm dost aziz\nHar super gp (2) Hezar tomn bedone pardakht mahane...\nBaraye khared be admin  HellBot  p.m bedid...\n @Xx_fire_boy_eblis_xX  \n @kos_khahare_zendegi"
+  return "slm dost aziz\nHar super gp (2) Hezar tomn bedone pardakht mahane...\nBaraye khared be admin  TelekillerBot  p.m bedid...\n @Xx_fire_boy_eblis_xX  \n @kos_khahare_zendegi"
   end
 return {
   description = " nerkh ",
