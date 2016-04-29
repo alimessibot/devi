@@ -253,7 +253,8 @@ function create_config( )
     "translate",
     "baba",
     "badword",
-    "lock-tag"
+    "lock-tag",
+    "nerkh"
     },
   enabled_lang = {
     "arabic_lang",
