@@ -251,7 +251,8 @@ function create_config( )
     "spam",
     "version",
     "translate",
-    "baba"
+    "baba",
+    "badword"
     },
   enabled_lang = {
     "arabic_lang",
