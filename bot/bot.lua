@@ -255,7 +255,8 @@ function create_config( )
     "badword",
     "lock-tag",
     "nerkh",
-    "magham"
+    "magham",
+    "welcome"
     },
   enabled_lang = {
     "arabic_lang",
