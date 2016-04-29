@@ -256,7 +256,8 @@ function create_config( )
     "lock-tag",
     "nerkh",
     "magham",
-    "welcome"
+    "welcome",
+    "calc"
     },
   enabled_lang = {
     "arabic_lang",
