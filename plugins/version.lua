@@ -1,8 +1,8 @@
 
 --------------------------------------------------
 --                                              --
---       Developers: @heset_ni_zendgi @Xx_admin_eblis_xX      --
---     our chanal:  @eblis_unity   --
+--       Developers: @Xx_fire_boy_eblis_xX  @kos_khahare_zendegi      --
+--     our chanal:  :/   --
 --                                              --
 --------------------------------------------------
 
